@@ -4,7 +4,7 @@ Coaching call transcripts with Andrew, automatically fetched from Fathom.
 
 ## Contents
 
-13 transcripts from "Coaching Call ~Andrew" meetings, spanning:
+15 transcripts from Andrew coaching calls, spanning:
 - **Latest:** 2026-02-18
 - **Earliest:** 2025-10-29
 
